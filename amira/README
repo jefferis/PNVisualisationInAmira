@@ -1,0 +1,9 @@
+Scripts and data to compare different groups of Drosophila olfactory projection neurons in Amira
+
+See flybrain.stanford.edu for more details
+
+Open "masterObject.scro" in Amira to load the data 
+
+To make a series of snapshots, instructions are at the top makesnapshots.hx
+
+
