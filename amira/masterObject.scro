@@ -8,7 +8,7 @@ $this proc constructor { } {
 	global myScriptDir
 	echo "Script directory is: $myScriptDir"
 	$this newPortFilename filename
-	$this filename setValue ${myScriptDir}/lists
+	$this filename setValue ${myScriptDir}/lists/1_listfile.txt
     $this newPortButtonList Action 5
 	$this Action setLabel Action:
 	$this Action setLabel 0 LoadAll
