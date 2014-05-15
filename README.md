@@ -27,12 +27,12 @@ Console and issuing a command of the form:
 DM3 setrgb 1 1 .4 
 ```
 
-An example of doing this for all glomeruli is presented in **setneuroncolors.hx**.
+An example of doing this for all glomeruli is presented in [`setneuroncolors.hx`](amira/setneuroncolors.hx).
 You can drag and drop this script onto the Amira object pool and it will set all
 of these colours.
 
 ## Snapshots
-To make a series of snapshots, INSTRUCTIONS are at the top **makesnapshots.hx**.
+To make a series of snapshots, INSTRUCTIONS are at the top [`makesnapshots.hx`](amira/makesnapshots.hx).
 
 ## Further Information
 Contact Greg or see flybrain.stanford.edu for more details.
