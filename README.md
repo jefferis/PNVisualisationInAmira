@@ -1,6 +1,8 @@
 # PNVisualisationInAmira
 Scripts and data to compare different groups of Drosophila olfactory projection neurons in Amira
 
+![images](doc/Montage5x2.png)
+
 ## Installation
 
 Use the **Download ZIP** button and expand or clone the repository to a sensible location.
