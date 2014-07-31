@@ -1,0 +1,13 @@
+../WarpTransformed/VM5v/DvGlutMARCM-F002533_seg001.am 4
+../WarpTransformed/VM5v/DvGlutMARCM-F003105_seg001.am 4
+../WarpTransformed/VM5v/DvGlutMARCM-F003143_seg001.am 4
+../WarpTransformed/VM5v/DvGlutMARCM-F003634_seg001.am 4
+../WarpTransformed/VM5v/DvGlutMARCM-F004151_seg001.am 4
+../WarpTransformed/VM5v/DvGlutMARCM-F004362_seg001.am 4
+../WarpTransformed/VM5v/DvGlutMARCM-F2193_seg2.am 4
+../WarpTransformed/VM5v/FruMARCM-F000622_seg001.am 4
+../WarpTransformed/VM5v/FruMARCM-F000624_seg002.am 4
+../WarpTransformed/VM5v/FruMARCM-F000992_seg001.am 4
+../WarpTransformed/VM5v/FruMARCM-F002090_seg001.am 4
+../WarpTransformed/VM5v/FruMARCM-M000137_seg001.am 4
+../WarpTransformed/VM5v/FruMARCM-M002109_seg001.am 4

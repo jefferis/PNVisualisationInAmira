@@ -1,1 +1,8 @@
 ../WarpTransformed/VM1/LJE4L.am 4
+../WarpTransformed/VM1/DvGlutMARCM-F003021_seg001.am 4
+../WarpTransformed/VM1/DvGlutMARCM-F003966_seg001.am 4
+../WarpTransformed/VM1/DvGlutMARCM-F004152_seg001.am 4
+../WarpTransformed/VM1/DvGlutMARCM-F004185_seg001.am 4
+../WarpTransformed/VM1/DvGlutMARCM-F004269_seg001.am 4
+../WarpTransformed/VM1/DvGlutMARCM-F004315_seg001.am 4
+../WarpTransformed/VM1/FruMARCM-F000680_seg001.am 4

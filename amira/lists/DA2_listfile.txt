@@ -1,0 +1,8 @@
+../WarpTransformed/DA2/ChaMARCM-F000725_seg001.am 4
+../WarpTransformed/DA2/DvGlutMARCM-F002430_seg001.am 4
+../WarpTransformed/DA2/DvGlutMARCM-F002757_seg002.am 4
+../WarpTransformed/DA2/DvGlutMARCM-F004192_seg001.am 4
+../WarpTransformed/DA2/DvGlutMARCM-F946_seg1.am 4
+../WarpTransformed/DA2/FruMARCM-M002373_seg002.am 4
+../WarpTransformed/DA2/GadMARCM-F000376_seg001.am 4
+../WarpTransformed/DA2/GadMARCM-F000709_seg001.am 4

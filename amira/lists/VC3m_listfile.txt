@@ -1,0 +1,6 @@
+../WarpTransformed/VC3m/DvGlutMARCM-F002526_seg001.am 4
+../WarpTransformed/VC3m/DvGlutMARCM-F002601_seg001.am 4
+../WarpTransformed/VC3m/DvGlutMARCM-F002800_seg001.am 4
+../WarpTransformed/VC3m/DvGlutMARCM-F003972_seg001.am 4
+../WarpTransformed/VC3m/DvGlutMARCM-F004155_seg001.am 4
+../WarpTransformed/VC3m/DvGlutMARCM-F014_seg1.am 4
