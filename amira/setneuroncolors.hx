@@ -69,7 +69,7 @@ VA6 setrgb .6 .4 .8
 # brtgreen
 VA7l setrgb .4 1 0 
 # huntergreen
-VA7 setrgb 0 .2 0 
+VA7m setrgb 0 .2 0 
 # silver
 VC2 setrgb .8 .8 .8
 # redish
