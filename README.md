@@ -9,7 +9,7 @@ Use the **Download ZIP** button and expand or clone the repository to a sensible
 
 ## Loading data into Amira
 
-1. Open **masterObject.scro** in Amira (you can do this by drag and drop or double clicking).
+1. Open **amira/masterObject.scro** in Amira (you can do this by drag and drop or double clicking).
 2. Click on the **LoadAll** button
 3. Now you can click on the **HideAll**/**ShowAll** button to hide or show all neurons
 
